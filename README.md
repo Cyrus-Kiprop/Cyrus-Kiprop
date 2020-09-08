@@ -72,9 +72,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://github.com/Cyrus-Kiprop/Cyrus-Kiprop/blob/master/twitter.svg (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://github.com/Cyrus-Kiprop/Cyrus-Kiprop/blob/master/linkedin.svg (LinkedIn icon without padding)
 <br>
 
 
@@ -108,7 +108,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I have a crush on BlockChain Tech.
 - 💬 Ask me about anything related to Javascript/Typescript/Ruby&.Rails or React/Express/Node.js
 - 📫 How to reach me: [Kiprop](mailto:cyruskiprop254@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- ⚡ Fun fact: I :heart: cute :dog:s
+- ⚡ Fun fact: I :heart: cute:dog:s
 
 <!-- links to your social media accounts -->
 
