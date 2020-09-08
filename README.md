@@ -11,14 +11,14 @@ def about_me
   cyrus_kiprop = {
     scanningFor: "Front-End web developer" || "Back-end developer " || "Front-End Developer",
     due_challenges: "Diving into GraphQL, Python and AWS",  
-    iLove : ["Tech Related News, Space Docs, Learning, Cooking],
+    iLove: ["Tech Related News, Space Docs, Learning, Cooking],
     funFacts: [
-      ':feet: I have 3 year of remote dev experience',  
-      ':running: Dart player, Hill climber, Marathoner and an adventurer',
+      '👨‍💻 I have 3 year of remote dev experience',  
+      '👯 Dart player, Hill climber, Marathoner and an adventurer',
       '🔭 I’m currently working on crazy staff :wink:' 
       '🌱 I have a crush on BlockChain Tech.',
-      ':pray: I am a believer ', 
-      ':umbrella: I  feed baby elephants on wednesday and sunday'
+      '🤝 I am a believer ', 
+      '⚡  I  feed baby elephants on wednesday and sunday'
      ]
   }
 end
